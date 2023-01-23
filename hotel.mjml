@@ -1,0 +1,123 @@
+<mjml>
+    <mj-head>
+    <mj-font name="" href="" />
+    <mj-attributes>
+    <mj-all padding="0" margin="0" />
+        <mj-section padding-top="0" padding-bottom="0"></mj-section>
+        <mj-text align="center"></mj-text>
+        <mj-navbar-link text-transform="uppercase" padding="10px"></mj-navbar-link>
+    </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#f7f6f5">
+    <mj-wrapper background-color="#fff">
+        <!-- section #1 navbar -->
+        <mj-section>
+        <mj-column>
+            <mj-navbar>
+                <mj-navbar-link href="#">booking</mj-navbar-link>
+                <mj-navbar-link href="#">rooms</mj-navbar-link>
+                <mj-navbar-link href="#">blog</mj-navbar-link>
+                <mj-navbar-link href="#">events</mj-navbar-link>
+            </mj-navbar>
+        </mj-column>
+        </mj-section>
+        <!-- section #2 logo -->
+        <mj-section background-color="#072b52">
+        <mj-column>
+            <mj-text color="#fff" font-size="24px" font-weight="500" padding="10px">your logo here</mj-text>
+        </mj-column>
+</mj-section>
+        <!-- section #1 navbar -->
+        <mj-section>
+                    <mj-column>
+        <mj-image
+             src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/4096/INTRO.png"
+             alt="hotel room"
+             width="600px"
+             >
+            
+        </mj-column>
+        </mj-section>
+        <!-- section #1 navbar -->
+        <mj-section >
+        <mj-column>
+        <mj-text color="#072b52" font-size="40px" padding="20px 0" font-family="serif">
+            thank you
+        </mj-text>
+        <mj-text font-size="16px" color="#072b52"  padding="10px 30px">
+            Hey there,
+        </mj-text>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px">
+            thank you for choosing our place for your recent stay. It's a pleasure to have you as our guest.
+        </mj-text>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px 20px 30px">
+            We would like to take this time to thank you for your accomodation and we hope to see you again soon.
+        </mj-text>
+            
+        </mj-column></mj-section>
+        <!-- section #1 navbar -->
+        <mj-section>
+        <mj-column><mj-image
+             src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/4096/01_1.png"
+             alt="hotel dining"
+             width="170px"
+             />
+        </mj-column>
+                <mj-column><mj-image
+             src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/4096/02_1.png"
+             alt="hotel room"
+            width="170px"
+             />
+        </mj-column>
+                <mj-column><mj-image
+             src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/4096/03_1.png"
+             alt="hotel bed"
+            width="170px"
+ />
+        </mj-column>
+        </mj-section>
+        <!-- section #6 message -->
+        <mj-section>
+        <mj-column>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px">
+            Keep sharing with us by tagging <b>#YourCompany</b>
+        </mj-text>
+            
+        </mj-column></mj-section>
+
+    </mj-wrapper>
+    <!-- section #7 social -->
+        <mj-section>
+        <mj-column>
+        <mj-text color="#072b52" font-size="24px" font-weight="500" padding="20px 0 10px 0">your logo </mj-text>
+        <mj-social>
+                <mj-social-element name="facebook" href="facebook.com" padding="10px 0 20px 0"></mj-social-element>
+        <mj-social-element name="twitter" href="twitter.com" padding="0 10px">
+        </mj-social-element>
+        <mj-social-element name="instagram" href="instagram.com" padding="0 10px">
+        </mj-social-element>
+        <mj-social-element name="youtube" href="youtube.com" padding="0 10px">
+        </mj-social-element>
+        </mj-social>
+
+            
+        </mj-column></mj-section>
+        <mj-section background-color="#072b52">
+            <mj-column>
+            <mj-text font-size="16px" color="#aaa" padding="10px 30px" font-style="underline">
+            Terms and Conditions
+        </mj-text>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px">
+            Integer eget nibh vel massa gravida ullamcorper. Sed a viverra ante. Nullam posuere pellentesque lectus, nec vehicula felis rutrum ac. Maecenas porta facilisis turpis, eget imperdiet purus
+        </mj-text>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px">
+            © Copyright 2021. YourBrand All Rights Reserved.
+        </mj-text>
+        <mj-text font-size="16px" color="#aaa" padding="10px 30px" background-color="#fff">
+            Manage Preferences | Unsubscribe
+        </mj-text>
+                
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
