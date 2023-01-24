@@ -14,10 +14,10 @@
         <mj-section>
         <mj-column>
             <mj-navbar>
-                <mj-navbar-link href="#">booking</mj-navbar-link>
-                <mj-navbar-link href="#">rooms</mj-navbar-link>
-                <mj-navbar-link href="#">blog</mj-navbar-link>
-                <mj-navbar-link href="#">events</mj-navbar-link>
+                <mj-navbar-link href="https://example.com">booking</mj-navbar-link>
+                <mj-navbar-link href="https://example.com">rooms</mj-navbar-link>
+                <mj-navbar-link href="https://example.com">blog</mj-navbar-link>
+                <mj-navbar-link href="https://example.com">events</mj-navbar-link>
             </mj-navbar>
         </mj-column>
         </mj-section>
@@ -91,12 +91,12 @@
         <mj-column>
         <mj-text color="#072b52" font-size="24px" font-weight="500" padding="20px 0 10px 0">your logo </mj-text>
         <mj-social>
-                <mj-social-element name="facebook" href="facebook.com" padding="10px 0 20px 0"></mj-social-element>
-        <mj-social-element name="twitter" href="twitter.com" padding="0 10px">
+                <mj-social-element name="facebook-noshare" href="https://facebook.com" padding="10px 0 20px 0"></mj-social-element>
+        <mj-social-element name="twitter-noshare" href="https://twitter.com" padding="0 10px">
         </mj-social-element>
-        <mj-social-element name="instagram" href="instagram.com" padding="0 10px">
+        <mj-social-element name="instagram-noshare" href="https://instagram.com" padding="0 10px">
         </mj-social-element>
-        <mj-social-element name="youtube" href="youtube.com" padding="0 10px">
+        <mj-social-element name="youtube-noshare" href="https://youtube.com" padding="0 10px">
         </mj-social-element>
         </mj-social>
 
